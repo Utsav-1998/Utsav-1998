@@ -9,7 +9,7 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: utsavnth@gmail.com
 - [linkedin Profile:](https://www.linkedin.com/in/utsav-nath-707642190/)
+- [My Resume:] (
 
 
 
--->
