@@ -8,5 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Spring Applications
 - 🤔 I’m looking for help with ...springboot
 - 💬 Ask me about ...anything
-- 📫 How to reach me: ...[linkedin Profile:](https://www.linkedin.com/in/utsav-nath-707642190/)[Mail:](utsavnth@gmail.com)
+- 📫 How to reach me: ...[linkedin Profile:](https://www.linkedin.com/in/utsav-nath-707642190/)
+[Mail:](utsavnth@gmail.com)
 -->
