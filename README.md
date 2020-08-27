@@ -2,8 +2,6 @@
 ### I am Utsav Nath EKA Utsav-1998
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on SpringBoot.
 - 🌱 I’m currently learning SpringMVC and Hibernate.
 - 👯 I’m looking to collaborate on RESTful services.
