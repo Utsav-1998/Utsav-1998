@@ -3,8 +3,7 @@
 
 
 - 🔭 I’m currently working on SpringBoot.
-- 🌱 I’m currently learning Angular.
-- 👯 I’m looking to collaborate on RESTful services.
+- 🌱 I’m currently learning Angular, Hibernate ,SpringMVC.
 - 🤔 I’m looking for help with Angular.
 - 💬 Ask me about anything!
 - 📫 How to reach me: utsavnth@gmail.com
